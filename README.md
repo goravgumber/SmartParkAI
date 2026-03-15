@@ -1,12 +1,6 @@
 # SmartPark AI
 
-Production-ready hackathon prototype for intelligent urban parking operations with live occupancy, reservations, analytics, voice queries, and Raspberry Pi simulation.
-
-## Live Demo Links
-
-- Frontend: https://smartpark-client.onrender.com
-- Backend API: https://smartpark-server.onrender.com
-- Repository: https://github.com/goravgumber/SmartPark-AI
+Production-ready hackathon prototype for intelligent urban parking operations with live occupancy, reservations, analytics, voice queries, and Raspberry Pi simulation.-AI
 
 ## Project Overview
 
